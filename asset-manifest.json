@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/incubator_homework_ignat/static/css/main.ca00f145.chunk.css",
+    "main.js": "/incubator_homework_ignat/static/js/main.9f207b8d.chunk.js",
+    "main.js.map": "/incubator_homework_ignat/static/js/main.9f207b8d.chunk.js.map",
+    "runtime-main.js": "/incubator_homework_ignat/static/js/runtime-main.423c1f5a.js",
+    "runtime-main.js.map": "/incubator_homework_ignat/static/js/runtime-main.423c1f5a.js.map",
+    "static/js/2.6562ebed.chunk.js": "/incubator_homework_ignat/static/js/2.6562ebed.chunk.js",
+    "static/js/2.6562ebed.chunk.js.map": "/incubator_homework_ignat/static/js/2.6562ebed.chunk.js.map",
+    "index.html": "/incubator_homework_ignat/index.html",
+    "precache-manifest.5cebd721cd40cfb85408f6edbbf3eb45.js": "/incubator_homework_ignat/precache-manifest.5cebd721cd40cfb85408f6edbbf3eb45.js",
+    "service-worker.js": "/incubator_homework_ignat/service-worker.js",
+    "static/css/main.ca00f145.chunk.css.map": "/incubator_homework_ignat/static/css/main.ca00f145.chunk.css.map",
+    "static/js/2.6562ebed.chunk.js.LICENSE.txt": "/incubator_homework_ignat/static/js/2.6562ebed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423c1f5a.js",
+    "static/js/2.6562ebed.chunk.js",
+    "static/css/main.ca00f145.chunk.css",
+    "static/js/main.9f207b8d.chunk.js"
+  ]
+}
